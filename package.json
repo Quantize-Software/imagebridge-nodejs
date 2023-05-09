@@ -1,0 +1,31 @@
+{
+  "name": "imagebridge-nodejs",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "src/exports.js",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "release": {
+    "branches": [
+      "main",
+      "dev"
+    ]
+  },
+  "repository": "https://github.com/Quantize-Software/imagebridge-nodejs.git",
+  "author": "mikezamora",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "form-data": "^4.0.0",
+    "https-proxy-agent": "^5.0.1",
+    "node-fetch": "^2.6.7",
+    "ws": "^8.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7",
+    "semantic-release": "^21.0.2"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
