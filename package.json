@@ -2,6 +2,7 @@
   "name": "imagebridge-nodejs",
   "version": "0.0.0-development",
   "description": "",
+  "homepage": "https://quantizesoftware.io",
   "main": "src/exports.js",
   "scripts": {
     "semantic-release": "semantic-release"
