@@ -26,6 +26,6 @@
     "semantic-release": "^21.0.2"
   },
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   }
 }
