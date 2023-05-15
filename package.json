@@ -16,7 +16,7 @@
   "repository": "https://github.com/Quantize-Software/imagebridge-nodejs.git",
   "author": "mikezamora",
   "dependencies": {
-    "@faker-js/faker": "^7.6.0",
+    "@faker-js/faker": "^8.0.1",
     "form-data": "^4.0.0",
     "https-proxy-agent": "^5.0.1",
     "node-fetch": "^2.6.7",
